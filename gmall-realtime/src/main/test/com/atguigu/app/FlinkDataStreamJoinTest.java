@@ -59,6 +59,7 @@ public class FlinkDataStreamJoinTest {
                 });
 
 
+
         //TODO 4、打印
         joinDS.print();
 
